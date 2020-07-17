@@ -29,6 +29,8 @@ I process data and information by any and every means, and always have. I specia
 
 ![Paul's github stats](https://github-readme-stats.vercel.app/api?username=PAGiesting&show_icons=true&hide=["stars"])
 
+Design inspiration from Pratik Kumar: <https://github.com/pr2tik1>
+
 <!--
 ### Hi there ðŸ‘‹
 **PAGiesting/PAGiesting** is a âœ¨ _special_ âœ¨ repository because its `README.md` (this file) appears on your GitHub profile.
