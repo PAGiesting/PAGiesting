@@ -27,8 +27,6 @@ I have years of experience examining, diagnosing, and solving problems in geoche
 ### Data science:
 I process data and information by any and every means, and always have. I specialize in generalism... but particularly in unsupervised learning and letting the data speak to me. (Shown: false color image of Kilauea and environs constructed by PCA on Landsat 8 data.)
 
-<iframe src="https://feed.mikle.com/widget/v2/133570/?preloader-text=Loading" height="474px" width="100%" class="fw-iframe" scrolling="no" frameborder="0"></iframe>
-
 ![Paul's github stats](https://github-readme-stats.vercel.app/api?username=PAGiesting&show_icons=true&hide=["stars"])
 
 Design inspiration from Pratik Kumar: <https://github.com/pr2tik1>
